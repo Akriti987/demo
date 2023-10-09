@@ -1,3 +1,7 @@
-This is my first Github Repository
-<br>
-Author-Akriti Sonker
+source tree
+source tree is a GIT gui -Graphical user interface for git.
+In gitbash we need to type commands in order to perform git operations but in souce tree we can perform the same operations very easily without any commands.
+by clicking some buttons or elements.
+1.clone repo from github.using Clone
+2.clone repo from local system.Using add
+3.
